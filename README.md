@@ -4,6 +4,8 @@
 
 I really liked the evothings example code that made gps data on the linkit one into jsonp.  I though the example was pretty straightforward and I wanted to add some things to it (expose some of the other data from GPS in the json.  So, I forked their code to retain all the linkback to them, attribution, documenation, and proper Apache license statements.
 
+The only folder I've modified or added things to is the one regarding mediatek examples.
+
 **end added by me**
 
 **below is the original readme**
