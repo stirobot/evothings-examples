@@ -1,4 +1,12 @@
-# Examples for Evothings Studio
+# Improved Examples for Evothings Studio
+
+**added by me**
+
+I really liked the evothings example code that made gps data on the linkit one into jsonp.  I though the example was pretty straightforward and I wanted to add some things to it (expose some of the other data from GPS in the json.  So, I forked their code to retain all the linkback to them, attribution, documenation, and proper Apache license statements.
+
+**end added by me**
+
+**below is the original readme**
 
 Apps in folder 'examples' are included in the Evothings Studio download.
 
