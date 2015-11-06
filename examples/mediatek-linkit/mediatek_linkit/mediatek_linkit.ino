@@ -16,7 +16,9 @@
 // LinkIt One - Position
 //
 // Created February, 2015
-//
+// 
+// Modified by github user stirobot in November, 2015 to parse and expose more data as JSON
+//********TODO: add gps time, alt, number of satellites***********
 // This example shows you how to fetch the position and share it using
 // a simple webserver.
 //
