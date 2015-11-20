@@ -29,8 +29,8 @@
 #include <LBattery.h>
 
 // Configuration of the WiFi AP settings.
-#define WIFI_AP "biz"
-#define WIFI_PASSWORD "the dog sat on the fat cat"
+#define WIFI_AP "stuff"
+#define WIFI_PASSWORD "stuff"
 
 // LWIFI_OPEN, LWIFI_WPA, or LWIFI_WEP.
 #define WIFI_AUTH LWIFI_WPA
